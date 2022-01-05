@@ -1,3 +1,6 @@
+# The Codex of sNRL
+In the 3rd and 4th centuries A.D., the codex began to replace the older scroll as the preferred form for longer writings. Unlike the scroll, this wonderful invention permitted writing on both sides of a sheet, made it easy to locate a particular passage, and could contain a very long piece of writing.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sNoiseLab/sNoiseLab.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
